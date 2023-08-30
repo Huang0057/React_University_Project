@@ -1,0 +1,42 @@
+.navbar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: white;
+  color: white;
+  height: 60px;
+  font-family: "Microsoft YaHei", sans-serif;
+}
+
+.icon-container {
+  height: 100%;
+  width: auto;
+  display: flex;
+  align-items: center;
+}
+
+.icon-date-container {
+  height: 100%;
+  width: auto;
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  height: 100%;
+  width: auto;
+}
+
+.date {
+  margin-left: 15%;
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 743;
+  line-height: normal;
+  font-family: "Microsoft YaHei", sans-serif;
+}
